@@ -3,10 +3,7 @@
 A **gesture-controlled wireless mouse** built using **ESP32** and **MPU6050**, enabling **touchless cursor movement** and **button-based mouse clicks** over Bluetooth. This project is designed for **differently-abled users** and **innovative interfaces** like **VR/AR** and **wearables**.
 
 ---
-## 🔌 Circuit Diagram
 
-
----
 ## 📄 Overview
 
 This project uses:
@@ -16,6 +13,10 @@ This project uses:
 
 All interactions are sent to the host computer over **Bluetooth**, allowing complete **hands-free, wireless mouse control**.
 
+---
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](images/circuit.jpg)
 ---
 
 ## 🚀 Features
@@ -47,6 +48,10 @@ All interactions are sent to the host computer over **Bluetooth**, allowing comp
 | Breadboard         | 1        | For prototyping                              |
 | Jumper Wires       | Several  | To connect all components                    |
 
+---
+## 🖼️ Demo
+
+![Demo](images/demo.jpg)
 ---
 
 ## 🧰 Software and Libraries
